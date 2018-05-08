@@ -3,7 +3,7 @@ from collections import Counter
 import csv
 import json
 import pickle
-import string
+import string   
 
 
 def main(filename):
